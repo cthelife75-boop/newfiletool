@@ -1,0 +1,3 @@
+[submodule "filetool"]
+	path = filetool
+	url = https://github.com/c-the-life/file_batch_tool.git
